@@ -1,0 +1,27 @@
+tr {
+  border: none;
+}
+table {
+  width: 1050px;
+  height: 350px;
+}
+div {
+  margin: 150px;
+  vertical-align: center;
+  background-color: #ffffff;
+}
+body {
+  background-color: #4594e4;
+}
+h1 {
+  text-align: center;
+  font-size: 25px;
+  padding: 10px;
+}
+td,
+th {
+  vertical-align: middle;
+}
+td {
+  text-align: center;
+}
